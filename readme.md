@@ -10,19 +10,16 @@ Lo básico:
 - Stats
 - Cálculo de otros stats
 
-
-
 TODO a corto plazo: 
-[] Terminar monsters.py e instanciarlos en main
-[] Combate básico
-[] Skills
+- [] Terminar monsters.py e instanciarlos en main
+- [] Combate básico
+- [] Skills
 
 TODO a mediano plazo:
-[] items
-[] exp y nivel
-[] afinar stats
+- [] items
+- [] exp y nivel
+- [] afinar stats
 
 TODO a largo plazo:
-[] Menú interno con items, stats, etc.
-[] aventuras modulares
-- 
+- [] Menú interno con items, stats, etc.
+- [] aventuras modulares
