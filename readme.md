@@ -1,28 +1,21 @@
 # pyRPG
 
-RPG de consola creado en python.
+RPG CLI creado en python.
 Práctica para crear clases, objetos, etc.
-
 Por ahora sólo te permite crear un personaje a través de character.py
 
 ---
 
-Lo básico:
-- Clases
-- Stats
-- Cálculo de otros stats
+### Objetivos a corto plazo: 
+- [x] Terminar monsters.py e instanciarlos en main
+- [ ] Combate básico
+- [ ] Skills
 
-TODO a corto plazo: 
-[x] Terminar monsters.py e instanciarlos en main
-[ ] Combate básico
-[ ] Skills
+### Objetivos a mediano plazo:
+- [ ] items
+- [ ] exp y nivel
+- [ ] afinar stats
 
-TODO a mediano plazo:
-[ ] items
-[ ] exp y nivel
-[ ] afinar stats
-
-TODO a largo plazo:
-[ ] Menú interno con items, stats, etc.
-[ ] aventuras modulares
-- 
+### Objetivos a largo plazo:
+- [ ] Menú interno con items, stats, etc.
+- [ ] aventuras modulares

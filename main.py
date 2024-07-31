@@ -1,5 +1,5 @@
 from character import create_char
-from monsters import Slime, Fungus
+from monsters.monsters import Slime, Fungus
 
 def main():
     player = create_char()
